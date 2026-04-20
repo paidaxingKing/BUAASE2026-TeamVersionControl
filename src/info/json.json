@@ -1,4 +1,4 @@
-﻿{
-    "username": "zte",
-    "data": "[1, 2, { \"nested\": true }]"
+{
+    "username": "zte, cwz",
+    "data": "[1, 2, { \"nested\": true }], {\"username\": \"cwz\",\"data\": \"998244353RMB\"}"
 }
